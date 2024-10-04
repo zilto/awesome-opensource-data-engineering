@@ -44,6 +44,7 @@ toc::[]
 * https://www.influxdata.com/[InfluxDB] - Purpose-Built Open Source Time Series Database.
 * https://min.io/[MinIO] - MinIO is a high performance, distributed object storage system and AWS S3 compatible.
 * https://www.postgresql.org/[Postgres] - The World's Most Advanced Open Source Relational Database.
+* https://questdb.io/[QuestDB] - Open Source Time Series Database with a focus on performance and simplicity.
 
 == Data Governance and Registries
 
