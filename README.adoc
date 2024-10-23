@@ -68,6 +68,9 @@ toc::[]
 
 * https://www.getdbt.com/[dbt] - Empowering data analysts and engineers to apply methodologies akin to those used by software engineers for constructing applications, dbt ensures data transformation processes align with established practices.
 
+* https://github.com/dagworks-inc/hamilton[Hamilton] - Lightweight Python library to author data transformations as a directed-acyclic graph (DAG). If you like dbt for your SQL transformations, you will like Hamilton for your Python processing.
+
+
 == Formats
 
 * https://avro.apache.org/[Apache Avro] - A data serialization system.
